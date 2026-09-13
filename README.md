@@ -1,3 +1,4 @@
+```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'lineColor': '#333333'}, 'flowchart': {'nodeSpacing': 25, 'rankSpacing': 35, 'curve': 'linear'}}}%%
 flowchart TD
     CAM[Camera Frame] --> L1
@@ -77,3 +78,4 @@ flowchart TD
     style PARKOUT fill:#e9f6f3,stroke:#0e6655,stroke-width:1.5px
 
     linkStyle default stroke:#333333,stroke-width:1.6px
+```
